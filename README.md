@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using KNN
+# 📈 Stock Price Prediction using KNN in Python
 
 A machine learning project for **predicting stock prices** using the **K-Nearest Neighbors (KNN)** algorithm.  
 This notebook demonstrates the full workflow — from **data collection**, **feature engineering**, and **model training**, to **visualization and evaluation** of prediction performance.
