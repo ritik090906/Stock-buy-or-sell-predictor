@@ -75,10 +75,6 @@ The model predicts future prices (or trends) based on similarity with past obser
 - Integrate **live market data** for real-time forecasting  
 
 ---
-
-## 🧾 Requirements
-
-
 ## 👨‍💻Author
 - Ritik Sharma
 - 📧[ritikh0309@gmail.com]
