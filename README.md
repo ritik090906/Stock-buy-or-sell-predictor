@@ -45,21 +45,21 @@ The model predicts future prices (or trends) based on similarity with past obser
 
 ### 📊 Visualizing the Closing Price of the Stock
 <p align="center">
-  <img src="https://github.com/<your-username>/stock-price-prediction/assets/your_image_id1" width="600" alt="Stock Closing Price Visualization">
+  <img src="Screenshot 2025-11-09 162037.png" width="600" alt="Stock Closing Price Visualization">
 </p>
 
 ---
 
 ### ✅ Calculating the Accuracy of KNN Classifier
 <p align="center">
-  <img src="https://github.com/<your-username>/stock-price-prediction/assets/your_image_id2" width="600" alt="KNN Classifier Accuracy Graph">
+  <img src=""Screenshot 2025-11-09 160937.png width="600" alt="KNN Classifier Accuracy Graph">
 </p>
 
 ---
 
 ### 🔍 Predicted vs Actual Stock Prices
 <p align="center">
-  <img src="https://github.com/<your-username>/stock-price-prediction/assets/your_image_id3" width="600" alt="Predicted vs Actual Stock Prices">
+  <img src="Screenshot 2025-11-09 170133.png" width="600" alt="Predicted vs Actual Stock Prices">
 </p>
 
 *(Replace the image URLs above with your actual uploaded image links or notebook plot screenshots.)*
