@@ -52,7 +52,7 @@ The model predicts future prices (or trends) based on similarity with past obser
 
 ### ✅ Calculating the Accuracy of KNN Classifier
 <p align="center">
-  <img src=""Screenshot 2025-11-09 165952.png width="600" alt="KNN Classifier Accuracy Graph">
+  <img src="Screenshot 2025-11-09 165952.png" width="600" alt="KNN Classifier Accuracy Graph">
 </p>
 
 ---
