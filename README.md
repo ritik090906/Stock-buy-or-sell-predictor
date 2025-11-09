@@ -1,58 +1,42 @@
-# 📈 Stock Buy/Sell Classification & Price Prediction using KNN
+# 📈 Stock Price Prediction using KNN
 
-A machine learning project that predicts **Buy/Sell trading signals** using the **K-Nearest Neighbors (KNN)** algorithm and performs **future stock price prediction** using regression techniques.
-
-This project was developed in **June–July 2023**, focusing on understanding market patterns, feature engineering, and evaluating ML models on real financial data.
-
----
-
-## 🚀 Project Overview
-
-Stock markets generate huge amounts of data daily. Identifying whether a stock should be **Bought** or **Sold** based on past trends is an important step in algorithmic trading.
-
-This project builds a complete ML pipeline:
-
-✅ Data collection from Kaggle  
-✅ Data cleaning & feature extraction  
-✅ KNN classification for Buy/Sell prediction  
-✅ Regression model for price forecasting  
-✅ Visualization of trends & results  
-✅ Model accuracy evaluation  
+A machine learning project for **predicting stock prices** using the **K-Nearest Neighbors (KNN)** algorithm.  
+This notebook demonstrates the full workflow — from **data collection**, **feature engineering**, and **model training**, to **visualization and evaluation** of prediction performance.
 
 ---
 
-## 🧠 Key Features
+## 🧠 Overview
 
-### ✅ **1. Buy/Sell Classification using KNN**
-- Uses normalized historical data.
-- Computes nearest neighbors to classify price movement.
-- Evaluates performance using:
-  - Accuracy  
-  - Confusion Matrix  
-  - Precision & Recall  
+This project explores how KNN can be applied to stock market prediction using historical data.  
+The model predicts future prices (or trends) based on similarity with past observations.
 
-### ✅ **2. Stock Price Prediction (Regression)**
-- Predicts future closing price.
-- Uses multi-variable regression.
-- Visualizes actual vs predicted price curves.
-
-### ✅ **3. Data Visualization**
-Includes:
-- Trend plots  
-- Buy/Sell signals  
-- Prediction curves  
-- Feature correlations  
-- Moving averages  
+The notebook includes:
+- Data collection from **Kaggle / Quandl**
+- Preprocessing & feature extraction
+- KNN model training and **GridSearchCV** tuning
+- Model evaluation (accuracy, MSE)
+- Visualization of predicted vs. actual stock prices
 
 ---
+## ⚙️ Tech Stack
 
-## 📊 Technologies Used
+- **Python 3.8+**
+- **Jupyter Notebook**
+- **pandas**, **numpy** — data processing
+- **matplotlib** — data visualization
+- **scikit-learn** — machine learning (KNN, GridSearchCV)
+- **quandl** — financial data API
 
-- **Python**
-- **NumPy**
-- **Pandas**
-- **Matplotlib / Seaborn**
-- **Scikit-Learn (KNN, Regression)**
-- Jupyter Notebook
+---
+📉 Predicted vs Actual Stock Prices
+
+
+Ritik
+📧 [Your Email Here]
+💼 LinkedIn Profile
+
+💻 GitHub Profile
+
+
 
 
